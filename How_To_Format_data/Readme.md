@@ -9,7 +9,7 @@ A target vector is usually one dimensional and in the case of supervised learnin
 
 <img src="featuresMatrixTargetVector.png" 
      width="500" 
-     height="200" />
+     height="250" />
 
 Let's see an example of this. the image is a pandas dataframe of the first 5 rows of the iris dataset. 
 A single flower represent one row of the dataset and the flower measurements are the columns. In this dataset, the species column is what you are trying to predict. 
