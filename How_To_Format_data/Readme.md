@@ -16,4 +16,4 @@ A single flower represent one row of the dataset and the flower measurements are
 
 <img src="irisFeatureTarget.png" 
      width="500" 
-     height="300" />
+     height="200" />
