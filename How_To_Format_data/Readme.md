@@ -14,4 +14,6 @@ A target vector is usually one dimensional and in the case of supervised learnin
 Let's see an example of this. the image is a pandas dataframe of the first 5 rows of the iris dataset. 
 A single flower represent one row of the dataset and the flower measurements are the columns. In this dataset, the species column is what you are trying to predict. 
 
-![images](irisFeatureTarget.png)
+<img src="irisFeatureTarget.png" 
+     width="500" 
+     height="300" />
