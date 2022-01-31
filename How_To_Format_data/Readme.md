@@ -8,7 +8,7 @@ In scikit-learn, a features matrix is a two-dimensional grid of data where rows 
 A target vector is usually one dimensional and in the case of supervised learning, what we want to predict from the data. 
 
 <img src="featuresMatrixTargetVector.png" 
-     width="400" 
+     width="700" 
      height="500" />
 
 Let's see an example of this. the image is a pandas dataframe of the first 5 rows of the iris dataset. 
