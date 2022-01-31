@@ -7,9 +7,9 @@ The first thing we have to understand is what Scikit-Learn expects for Features 
 In scikit-learn, a features matrix is a two-dimensional grid of data where rows represent samples and columns represent features. 
 A target vector is usually one dimensional and in the case of supervised learning, what we want to predict from the data. 
 
-![images](images/featuresMatrixTargetVector.png)
+![images](featuresMatrixTargetVector.png)
 
 Let's see an example of this. the image is a pandas dataframe of the first 5 rows of the iris dataset. 
 A single flower represent one row of the dataset and the flower measurements are the columns. In this dataset, the species column is what you are trying to predict. 
 
-![images](images/irisFeatureTarget.png)
+![images](irisFeatureTarget.png)
