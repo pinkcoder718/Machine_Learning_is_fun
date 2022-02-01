@@ -1,3 +1,4 @@
+<img align="right" height="300px" width="400px" src="regInterceptTrueFalse.png">
 <h2>LINEAR REGRESSION</h2>
 
 class LinearRegression(sklearn.base.MultiOutputMixin, sklearn.base.RegressorMixin, LinearModel)<br>
