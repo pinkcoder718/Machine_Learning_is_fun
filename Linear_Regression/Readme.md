@@ -1,4 +1,4 @@
-##LINEAR REGRESSION
+<h2>LINEAR REGRESSION</h2>
 
 class LinearRegression(sklearn.base.MultiOutputMixin, sklearn.base.RegressorMixin, LinearModel)<br>
    LinearRegression(*, fit_intercept=True, normalize='deprecated', copy_X=True, n_jobs=None, positive=False)<br>
