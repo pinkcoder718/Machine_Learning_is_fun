@@ -25,9 +25,9 @@ class LinearRegression(sklearn.base.MultiOutputMixin, sklearn.base.RegressorMixi
        :class:`~sklearn.preprocessing.StandardScaler` before calling ``fit``<br>
        on an estimator with ``normalize=False``.<br>
        Returns
-        -------
-       self : estimator instance
-           Estimator instance.
+       -------<br>
+       self : estimator instance<br>
+           Estimator instance.<br>
  
  
  Learn more from : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
