@@ -1,6 +1,6 @@
-<img align="right" height="300px" width="400px" src="regInterceptTrueFalse.png">
 <h2>LINEAR REGRESSION</h2>
 
+<img align="right" height="300px" width="400px" src="regInterceptTrueFalse.png">
 class LinearRegression(sklearn.base.MultiOutputMixin, sklearn.base.RegressorMixin, LinearModel)<br>
    LinearRegression(*, fit_intercept=True, normalize='deprecated', copy_X=True, n_jobs=None, positive=False)<br>
    
