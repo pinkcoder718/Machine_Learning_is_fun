@@ -24,10 +24,12 @@ class LinearRegression(sklearn.base.MultiOutputMixin, sklearn.base.RegressorMixi
        If you wish to standardize, please use<br>
        :class:`~sklearn.preprocessing.StandardScaler` before calling ``fit``<br>
        on an estimator with ``normalize=False``.<br>
-       Returns
-       -------<br>
-       self : estimator instance<br>
-           Estimator instance.<br>
+       
+       
+   Results
+   -------
+       self : estimator instance
+         Estimator instance.
  
  
  Learn more from : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
