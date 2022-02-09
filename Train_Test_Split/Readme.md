@@ -1,7 +1,7 @@
 One of the goals of supervised learning is to build a model that performs well on new data. 
 If we have new data, we could see how our model performs on it. 
 The problem occurs when we may not have new data, but by using train-test_split we can simulate this experience.
-In this notebook you will find how to perform train test split on your data.
+In this notebook you will find how to perform train test split on our data.
 
 ## What is `train_test_split`?
 <img src='trainTestSplitBoston.png' width='310px' height='230px' align='right'>
